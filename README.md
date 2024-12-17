@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Structurefi Test Frontend
+
+A simple orderbook frontend displaying real-time BTC/USDT price data from Binance.
+
+View the live demo at: [https://structurefi-test-front.vercel.app/](https://structurefi-test-front.vercel.app/)
 
 ## Getting Started
 
